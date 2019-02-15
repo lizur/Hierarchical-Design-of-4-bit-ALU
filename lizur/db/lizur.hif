@@ -1,0 +1,103 @@
+Version 9.0 Build 132 02/25/2009 SJ Web Edition
+7
+3344
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+7483
+# storage
+db|lizur.(1).cnf
+db|lizur.(1).cnf
+# case_insensitive
+# source_file
+..|..|..|..|altera|90|quartus|libraries|others|maxplus2|7483.bdf
+6655882f494cd08fd53acb32ceb817fb
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+7483:inst1
+}
+# macro_sequence
+
+# end
+# entity
+MUX41
+# storage
+db|lizur.(2).cnf
+db|lizur.(2).cnf
+# case_insensitive
+# source_file
+..|..|..|..|altera|90|quartus|libraries|others|maxplus2|MUX41.bdf
+d7193e1c17cd49f17046e8139e73d6
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+MUX41:inst
+MUX41:inst2
+MUX41:inst3
+MUX41:inst4
+MUX41:inst22
+}
+# macro_sequence
+
+# end
+# entity
+21mux
+# storage
+db|lizur.(3).cnf
+db|lizur.(3).cnf
+# case_insensitive
+# source_file
+..|..|..|..|altera|90|quartus|libraries|others|maxplus2|21mux.bdf
+58999bd3808c6118fcb8193d74b5b94f
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+lizur
+# storage
+db|lizur.(0).cnf
+db|lizur.(0).cnf
+# case_insensitive
+# source_file
+lizur.bdf
+1ce41f62fb41c924a6c5551cc916885
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+
